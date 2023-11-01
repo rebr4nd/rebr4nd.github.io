@@ -1,8 +1,3 @@
-layout: page
-title: "Project Mayhem Lore"
-permalink: https://rebr4nd.github.io/Lore
-
-
 # Mayhem Lore
 ## Onion era: 
 Once upon a time, in a land ruled by an evil and tyrannical ruler named Oliver, known as "One Giant Onion," the people lived in fear and misery. Oliver's greed and lust for power knew no bounds, and his oppressive rule cast a dark shadow over the kingdom.
