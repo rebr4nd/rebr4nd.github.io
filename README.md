@@ -1,5 +1,5 @@
-## Mayhem Lore
-# Onion era: 
+# Mayhem Lore
+## Onion era: 
 Once upon a time, in a land ruled by an evil and tyrannical ruler named Oliver, known as "One Giant Onion," the people lived in fear and misery. Oliver's greed and lust for power knew no bounds, and his oppressive rule cast a dark shadow over the kingdom.
 
 Oliver, a man with a twisted soul and an insatiable thirst for power, had embarked on a calculated journey to seize control of the kingdom. He began by worming his way into the inner circle of the royal court, disguising his true intentions with a facade of loyalty and humility.
@@ -64,7 +64,7 @@ And so, the tale of Oliver the Evil Ruler and the triumphant heroes who overthre
 
 
 
-# Anthem:
+## Anthem:
 
 (Verse 1)
 In a world where chaos reigns,
@@ -121,7 +121,7 @@ May the legacy of anarchy remain,
 A symbol of freedom, free from pain.
 
 
-# Heisenberg era:
+## Heisenberg era:
 
 Once upon a time, in the kingdom of creativity, there was an artist named Mr. Heisenberg. His paintings were incredibly stunning and well-made, capturing the hearts of everyone who saw them. The entire kingdom came to know and love his masterpieces, and his fame spread far and wide.
 
@@ -138,7 +138,7 @@ However, a surprising twist awaited the kingdom. It was revealed that Mr. Heisen
 From that day forward, Mr. Heisenberg focused solely on his stunning and beloved art, while Liam continued to create beautiful pieces that resonated with the kingdom. Both artists found their own paths and brought joy to the hearts of the people.
 
 
-# Richard era:
+## Richard era:
 
 Once upon a time in the kingdom of creativity, there was a period of darkness. The famous artists Mr. Heisenberg and Liam decided to take an extended hiatus from their careers, causing the art and music to cease. The population started to leave the land, and the kingdom lost its vibrant spirit.
 
@@ -152,7 +152,7 @@ Together, Richard, Mr. Heisenberg, Liam, and the renowned chef Noah formed an ex
 
 The kingdom once again thrived, attracting artists from all over who wanted to be a part of its artistic legacy. It was all thanks to Richard's arrival, inspired by the invitation from Noah, that the kingdom regained its artistic glory and reminded everyone of the power of art.
 
-# Women era:
+## Women era:
 
 After the artistic renaissance, the land flourished with new people, drawn in by luck and the incredible art. Among them were many talented women who contributed to the culture and formed connections with the old citizens. Despite some suspicion due to their outsider status, they persevered.
 
@@ -169,7 +169,7 @@ The loss of such a great man shook the entire realm, and in an effort to safegua
 In response, the triumvirate in charge, along with several well-known citizens, took action. They rooted out the man responsible for this crime and banished him from the kingdom. Justice was served, and the land began to heal from the wounds inflicted by his actions.
 
 
-# Noah era:
+## Noah era:
 
 The triumvirate of Skyler, Benjamin, and Trevor ruled for many years. After their long reign, they decided to step down and pass on the torch of leadership.
 
